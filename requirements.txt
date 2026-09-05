@@ -1,0 +1,9 @@
+Flask
+requests
+PyExecJS
+loguru
+opencv-python-headless
+numpy
+torch
+fake-useragent
+gunicorn
